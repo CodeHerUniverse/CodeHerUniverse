@@ -19,9 +19,9 @@ Through my role as a Project Manager/Business Analyst at J.P. Morgan, I’ve als
   
 My work involves analysis, requirements gathering, collaboration with Tech to design solutions, and testing these solutions in a UAT environment.
 
-While I love a good algorithm, my real passion lies in helping women break into tech. The industry needs more brilliant, bold, and badass women, and I’m here to cheer them on (and maybe shove a few through the door if needed). Nothing brings me more joy than seeing someone realise they belong in STEM just as much as anyone else.
+While I love a good algorithm, my real passion lies in helping people break into tech. The industry needs more brilliant, bold, and badass people, and I’m here to cheer them on (and maybe shove a few through the door if needed). Nothing brings me more joy than seeing someone realise they belong in STEM just as much as anyone else.
 
-When I’m not knee-deep in code or championing women in tech, you’ll find me planning my next travel adventure, writing fiction, or being terrorised by my cat, Nigel. He has a white moustache, an attitude bigger than his whiskers, and zero respect for my personal space.
+When I’m not knee-deep in code or championing other to jump into tech, you’ll find me planning my next travel adventure, writing fiction, or being terrorised by my cat, Nigel. He has a white moustache, an attitude bigger than his whiskers, and zero respect for my personal space.
 
 If you’re into data, sarcasm, and smashing stereotypes, let’s connect — I’m always up for a good chat (and maybe some cat therapy advice).
 
